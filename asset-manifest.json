@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/self_introduction-portfolio/static/css/main.9e5256aa.css",
+    "main.js": "/self_introduction-portfolio/static/js/main.8c0954a9.js",
+    "static/media/whoami.jpg": "/self_introduction-portfolio/static/media/whoami.1c98072eb2d1955d67ae.jpg",
+    "index.html": "/self_introduction-portfolio/index.html",
+    "main.9e5256aa.css.map": "/self_introduction-portfolio/static/css/main.9e5256aa.css.map",
+    "main.8c0954a9.js.map": "/self_introduction-portfolio/static/js/main.8c0954a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e5256aa.css",
+    "static/js/main.8c0954a9.js"
+  ]
+}
